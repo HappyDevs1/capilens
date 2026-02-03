@@ -1,2 +1,2 @@
 # Capilens
-### Pet project build to strengthen my Python skills for data work
+### Pet project built to strengthen my Python skills for data work
